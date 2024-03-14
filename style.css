@@ -1,0 +1,10 @@
+header{
+    height: 45vh;
+    background-image: url('https://wallpaperaccess.com/full/266471.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    background-image: linear-gradient(to right,white,rgb(209, 209, 233));
+}
